@@ -1,0 +1,13 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de entornos locales (por si alguna vez lo usas)
+*.env
+*.log
+*.bak
+
+# Archivos de base de datos o exportaciones
+*.sql
+*.sqlite
+*.csv
